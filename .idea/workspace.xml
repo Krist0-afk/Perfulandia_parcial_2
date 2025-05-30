@@ -5,99 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="085808ff-875b-4b60-ac48-5410ebdbbb58" name="Changes" comment="Subiendo a la rama">
-      <change afterPath="$PROJECT_DIR$/.idea/Perfulandia_parcial_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carritoservice/carritoservice/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carritoservice/carritoservice/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carritoservice/carritoservice/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carritoservice/carritoservice/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carritoservice/carritoservice/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carritoservice/carritoservice/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carritoservice/carritoservice/src/main/java/com/perfulandia/carritoservice/CarritoserviceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carritoservice/carritoservice/src/main/java/com/perfulandia/carritoservice/controller/CarritoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carritoservice/carritoservice/src/main/java/com/perfulandia/carritoservice/model/Carrito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carritoservice/carritoservice/src/main/java/com/perfulandia/carritoservice/model/Logistica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carritoservice/carritoservice/src/main/java/com/perfulandia/carritoservice/model/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carritoservice/carritoservice/src/main/java/com/perfulandia/carritoservice/model/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carritoservice/carritoservice/src/main/java/com/perfulandia/carritoservice/model/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carritoservice/carritoservice/src/main/java/com/perfulandia/carritoservice/repository/CarritoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carritoservice/carritoservice/src/main/java/com/perfulandia/carritoservice/service/CarritoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carritoservice/carritoservice/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carritoservice/carritoservice/src/test/java/com/perfulandia/carritoservice/CarritoserviceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logisticaservice/logisticaservice/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logisticaservice/logisticaservice/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logisticaservice/logisticaservice/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logisticaservice/logisticaservice/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logisticaservice/logisticaservice/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logisticaservice/logisticaservice/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logisticaservice/logisticaservice/src/main/java/com/perfulandia/logisticaservice/LogisticaserviceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logisticaservice/logisticaservice/src/main/java/com/perfulandia/logisticaservice/controller/RepartidorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logisticaservice/logisticaservice/src/main/java/com/perfulandia/logisticaservice/model/Repartidor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logisticaservice/logisticaservice/src/main/java/com/perfulandia/logisticaservice/repository/RepartidorRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logisticaservice/logisticaservice/src/main/java/com/perfulandia/logisticaservice/service/RepartidorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logisticaservice/logisticaservice/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logisticaservice/logisticaservice/src/test/java/com/perfulandia/logisticaservice/LogisticaserviceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pedidos/pedidos/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pedidos/pedidos/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pedidos/pedidos/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pedidos/pedidos/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pedidos/pedidos/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pedidos/pedidos/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pedidos/pedidos/src/main/java/com/perfulandia/pedidos/PedidosApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pedidos/pedidos/src/main/java/com/perfulandia/pedidos/controller/pedidoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pedidos/pedidos/src/main/java/com/perfulandia/pedidos/model/pedidoModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pedidos/pedidos/src/main/java/com/perfulandia/pedidos/repository/pedidoInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pedidos/pedidos/src/main/java/com/perfulandia/pedidos/service/pedidoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pedidos/pedidos/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pedidos/pedidos/src/test/java/com/perfulandia/pedidos/PedidosApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/.idea/productservice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/productservice/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/productservice/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/productservice/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/productservice/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/productservice/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/productservice/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/productservice/src/main/java/com/perfulandia/productservice/ProductserviceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/productservice/src/main/java/com/perfulandia/productservice/controller/ProductoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/productservice/src/main/java/com/perfulandia/productservice/model/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/productservice/src/main/java/com/perfulandia/productservice/model/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/productservice/src/main/java/com/perfulandia/productservice/repository/ProductoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/productservice/src/main/java/com/perfulandia/productservice/service/ProductoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/productservice/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/productservice/src/test/java/com/perfulandia/productservice/ProductserviceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/.idea/usuarioservice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/src/main/java/com/perfulandia/usuarioservice/UsuarioserviceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/src/main/java/com/perfulandia/usuarioservice/controller/UsuarioController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/src/main/java/com/perfulandia/usuarioservice/model/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/src/main/java/com/perfulandia/usuarioservice/repository/UsuarioRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/src/main/java/com/perfulandia/usuarioservice/service/UsuarioService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/src/test/java/com/perfulandia/usuarioservice/UsuarioserviceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carritoservice/carritoservice/src/main/java/com/perfulandia/carritoservice/model/Carrito.java" beforeDir="false" afterPath="$PROJECT_DIR$/carritoservice/carritoservice/src/main/java/com/perfulandia/carritoservice/model/Carrito.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carritoservice/carritoservice/src/main/java/com/perfulandia/carritoservice/model/Logistica.java" beforeDir="false" afterPath="$PROJECT_DIR$/carritoservice/carritoservice/src/main/java/com/perfulandia/carritoservice/model/Logistica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carritoservice/carritoservice/src/main/java/com/perfulandia/carritoservice/model/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/carritoservice/carritoservice/src/main/java/com/perfulandia/carritoservice/model/Pedido.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,8 +139,17 @@
       <workItem from="1748623817048" duration="63000" />
       <workItem from="1748623895769" duration="771000" />
       <workItem from="1748624682621" duration="3000" />
-      <workItem from="1748624754925" duration="314000" />
+      <workItem from="1748624754925" duration="2252000" />
     </task>
+    <task id="LOCAL-00001" summary="Subiendo a la rama">
+      <option name="closed" value="true" />
+      <created>1748625163504</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748625163505</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
